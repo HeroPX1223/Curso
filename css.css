@@ -1,0 +1,37 @@
+
+
+
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+}
+
+.Fernando {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(156, 4, 4);
+    font-size: 60px;
+}
+
+.Fernando Eugenio Reverol García {
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-weight: bold;
+}
+
+img {
+    border: 5px solid rgb(199, 7, 7);
+    border-radius: 10px;
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+    margin: 0 200px 0 200px;
+}
+
+.tabla {
+    background-color: royalblue;
+}
+
