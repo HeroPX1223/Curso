@@ -1,0 +1,7 @@
+.tarjeta {
+    border: 5px solid tomato;
+    background-color: lightblue;
+    box-shadow: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
